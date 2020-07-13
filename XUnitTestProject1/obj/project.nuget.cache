@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Qg5XhTGoqTlYlexGi6kh4lmtNy5sSlUX9mLQO0LDm8uIaOBtq758nGGEhwiavRSNed0NIJtsUQmDgHz7AkN9g==",
+  "dgSpecHash": "Y3/LxrE/MEbEs2aRdAxsqo8YsHgRl0bBOmHWp1hnxecqo2cronexFbLH7Xxeq/2Ymcm9DYmyo9O1pZnTiqsSPA==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio 2019 Projects\\XUnitTestProject1\\XUnitTestProject1.csproj",
+  "projectFilePath": "D:\\Visual Studio 2019 Projects\\XunitSample\\XUnitTestProject1\\XUnitTestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jhomel\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Jhomel\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
